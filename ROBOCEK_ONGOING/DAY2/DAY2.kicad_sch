@@ -2113,7 +2113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
 			(at 67.31 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2385,7 +2385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
 			(at 78.4352 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2465,7 +2465,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 33.02 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2626,7 +2626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 86.0552 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2706,7 +2706,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 201.93 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2783,7 +2783,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 200.66 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2938,7 +2938,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm"
 			(at 33.02 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3015,7 +3015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_12x12mm_H4.5mm"
 			(at 149.86 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3097,7 +3097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
 			(at 168.6052 88.9 0)
 			(hide yes)
 			(show_name no)
